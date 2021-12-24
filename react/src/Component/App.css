@@ -1,0 +1,33 @@
+.main-login{
+display: flex;
+    flex-direction: column;
+    padding-top: 94px;
+    align-items: center;
+}
+.img{
+ /* padding-right: 94px; */
+    height: 34px
+}
+
+
+.login_button{ 
+  width: 196px !important;
+    height: 28px !important;
+    color: #fff !important;
+    background-color: #3f51b5 !important;
+
+}
+.from-text{
+  padding-top:90px;
+}
+
+
+.login-centre {
+    /* background-color: #7060c1; */
+    border: 1px solid;
+    padding-left: 66px;
+    padding-right: 66px;
+    padding-bottom: 33px;
+    padding-top: 31px;
+}
+
